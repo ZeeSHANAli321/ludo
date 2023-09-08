@@ -512,7 +512,7 @@ body{
 /* Small devices (sm) */
 @media (max-width: 576px) {
    body{
-        transform: scale(0.4);
+        transform: scale(0.5);
         height: 100vh;
    }
   }
